@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<hudson.scm.CVSSCM_-DescriptorImpl plugin="cvs@2.12">
+<hudson.scm.CVSSCM_-DescriptorImpl plugin="cvs@2.11">
   <generation>1</generation>
   <compressionLevel>3</compressionLevel>
   <privateKeyLocation>/Users/vsellier/.ssh/id_rsa</privateKeyLocation>
-  <privateKeyPassword>Ip/9CIj06wgTne7QCGRQrQ==</privateKeyPassword>
+  <privateKeyPassword>41USvexiB6U5HmdyVWPsgg==</privateKeyPassword>
   <knownHostsLocation>/Users/vsellier/.ssh/known_hosts</knownHostsLocation>
   <authTokens/>
   <changelogEncoding>UTF-8</changelogEncoding>
